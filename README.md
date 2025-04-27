@@ -1,7 +1,7 @@
 <h1 align="center">StochasTok: Improving Fine-Grained Subword Understanding in LLMs</h1>
 
 <p align="center">
-    <em>Paper preview.<br>
+    <em><a href="https://github.com/anyasims/stochastok-preview/blob/main/stochastok-preview.pdf">Paper preview</a>.<br>
       ArXiv version, code, and new results coming soon!</em>
 </p>
 
@@ -39,7 +39,7 @@
 
 &nbsp;
 
-***For more results please see our paper!***
+***For more results please see our [paper](https://github.com/anyasims/stochastok-preview/blob/main/stochastok-preview.pdf)!***
 
 - StochasTok can be applied without pretraining from scratch,
 - Is robust to hyperparameter choice,
