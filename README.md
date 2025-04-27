@@ -7,30 +7,37 @@
 
 # tl;dr
 
+<div align="center">
+
 **Instead of standard tokenization... use stochastic tokenization!**
 
-<div align="center">
 <img src="assets/fig2.png" width="60%" />
+
+&nbsp;
 
 **There is no compromise to original performace.**
 
-<div align="center">
 <img src="assets/fig3.png" width="60%" />
+
+&nbsp;
 
 **It dramatically improves dramatically downstream performace on language game tasks**
 
-<div align="center">
 <img src="assets/fig1.png" width="60%" />
+
+&nbsp;
 
 **StochasTok-trained models grok multi-digit addition**
 
-<div align="center">
 <img src="assets/fig8.png" width="60%" />
+
+&nbsp;
 
 **And it visibly alters LLMs' internal representions**
 
-<div align="center">
-<img src="assets/fig12.png" width="60%" />
+<img src="assets/fig12.png" width="60%" /></div>
+
+&nbsp;
 
 ***For more results please see our paper!***
 
