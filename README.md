@@ -15,13 +15,13 @@
 
 &nbsp;
 
-**There is no compromise to original performace.**
+**There is no compromise to original performance.**
 
 <img src="assets/fig3.png" width="60%" />
 
 &nbsp;
 
-**It dramatically improves dramatically downstream performace on language game tasks**
+**It dramatically improves downstream performance on language game tasks**
 
 <img src="assets/fig1.png" width="60%" />
 
@@ -33,7 +33,7 @@
 
 &nbsp;
 
-**And it visibly alters LLMs' internal representions**
+**And it visibly alters LLMs' internal representations**
 
 <img src="assets/fig12.png" width="60%" /></div>
 
@@ -42,7 +42,7 @@
 ***For more results please see our paper!***
 
 - StochasTok can be applied without pretraining from scratch,
-- Is robust to hyperparameter setting,
+- Is robust to hyperparameter choice,
 - Has OOD generalization properties,
 - Scales to larger models,
 - and more...
